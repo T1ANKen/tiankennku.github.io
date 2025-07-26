@@ -223,9 +223,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  experience:
     output: true
-    permalink: /:collection/:path/
+    permalink: /_portfolio/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -272,7 +272,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: experience
     values:
       layout: single
       author_profile: true
