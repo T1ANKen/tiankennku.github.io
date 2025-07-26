@@ -2,7 +2,7 @@
 author_profile: true
 title: ""
 permalink: /portfolio/experience/
-collection: portfolio
+collection: experience
 ---
 
 ## Internship
