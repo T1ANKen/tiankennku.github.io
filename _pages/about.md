@@ -13,7 +13,7 @@ Introduction
 
 I am a 4th year undergraduate Chinese student from [Nankai University](https://www.nankai.edu.cn/), majoring in [Statistics & Data Science](https://stat.nankai.edu.cn/).
 
-I am intrigued by research of Graph Neural Network and Reinforcement learning.
+I am intrigued by research of Graph Neural Network and Reinforcement Learning.
 
 
 Education
