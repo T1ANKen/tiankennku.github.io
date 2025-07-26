@@ -2,9 +2,8 @@
 permalink: /
 author_profile: true
 title: ""
-redirect_from: 
-  - /about/
-  - /about.html
+permalink: /portfolio/experience/
+collection: portfolio
 ---
 
 Internship
