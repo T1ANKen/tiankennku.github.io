@@ -14,4 +14,4 @@ collection: experience
 
 ## Articles
 
-[Research on Trick Node Detection Method Based on Potential Neighbor Relationship Completion and Homogeneous Graph Transformation](/_portfolio/HNNCF.pdf), 2024
+[Research on Trick Node Detection Method Based on Potential Neighbor Relationship Completion and Homogeneous Graph Transformation](/files/HNNCF.pdf), 2024
