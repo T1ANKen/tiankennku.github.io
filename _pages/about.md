@@ -14,18 +14,18 @@ I am a 4th year undergraduate Chinese student from [Nankai University](https://w
 
 I am intrigued by research of Graph Neural Network and Reinforcement learning.
 
- Education
- ======
+Education
+======
  
  Nankai University, 2022.09 ~ 2026.06
  
  No.2 High school in Nanning, 2019.09 ~ 2022.06
 
- More
- ======
+More
+======
  
- Avocations
- ------
+Avocations
+------
  
  Playing football, previously in college football team. ManCity fan.
  
