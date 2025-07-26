@@ -272,12 +272,12 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: experience
+      type: portfolio
     values:
       layout: single
       author_profile: true
       share: true
-      comment: true
+      comments: true
   # _talks
   - scope:
       path: ""
